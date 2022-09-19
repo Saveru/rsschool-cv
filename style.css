@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(219, 219, 219, 0.74);
+    max-width: 1024px;
+    margin: auto;
+    font-size: 1.3rem;
+}
+.fontLI {
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+p {
+    font-variant: small-caps;
+}
+h2 {
+    font-variant: small-caps;
+}
+.rssLogo {
+    width: 80px;
+}
+footer {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 10px;
+}
+.photoMe {
+    width: 200px;
+    border-radius: 0.5cm;
+}
+
+.name {
+    font-size: 30px;
+}
+.contener {
+    display: flex;
+}
+.header {
+    margin-left: 10px;
+}

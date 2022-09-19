@@ -1,1 +1,1 @@
-https://Saveru.github.io/rsschool-cv/cv
+https://Saveru.github.io/rsschool-cv/
